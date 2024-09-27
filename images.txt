@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 easysoft/zentao:latest
+registry.cn-hangzhou.aliyuncs.com/acs/maven:3-jdk-8
