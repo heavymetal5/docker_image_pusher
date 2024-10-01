@@ -7,3 +7,4 @@ xhofe/alist:latest
 easysoft/zentao:latest
 registry.cn-hangzhou.aliyuncs.com/acs/maven:3-jdk-8
 gitlab/gitlab-ce:latest
+registry.cn-hangzhou.aliyuncs.com/acs/maven:3-jdk-8
